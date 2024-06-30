@@ -12,4 +12,4 @@ This project utilizes [MediaPipe Holistic](https://github.com/google/mediapipe/b
 - **At Desk**
 
 The classification model is a Random Forest, trained on data from MIT OpenCourseWare lectures. This setup allows for an simple analysis of body language in educational environments.
-
+![image of training frame](Project Images/Picture7.png)
