@@ -13,7 +13,11 @@ To assert a better feedback mechanism in a traditional classroom environment we 
   - Angry
   - Neutral
   - Fear
+  <br>
   
+  ### Flowchart:
+    ![image](https://github.com/user-attachments/assets/ba47afab-65ad-48a0-9d7f-794e402018b4)
+
   ### Results:
   - Total params: 13,111,367
   - Trainable params: 13,103,431
@@ -37,6 +41,9 @@ To assert a better feedback mechanism in a traditional classroom environment we 
 - This data-set was then fed to a Random Forrest model to which classifies into the given categories.
 - Next step was to create a composite model that incorporates both the models, leveraging the strengths of both models and providing a holistic view.
 
+### Flowchart:
+  ![image](https://github.com/user-attachments/assets/3da7f7dc-9a98-4352-9316-1035a7310ee3)
+
 ### Results:
   Model used: **Random Forrest** <br>
   Accuracy: 97.81 %
@@ -51,3 +58,12 @@ To assert a better feedback mechanism in a traditional classroom environment we 
 
 ## Combined Results
 Both Models were run simultaneously to give combined results
+
+#### Detecting teacher’s behavior:
+<p float="left">
+  <img src="/Project Images/Picture4.png" width="500" />
+  <img src="/Project Images/Picture5.png" width="500" /> 
+</p>
+
+#### Detecting students behaviour:
+<img src="/Project Images/Picture6.png" />
