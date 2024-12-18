@@ -56,6 +56,7 @@ To assert a better feedback mechanism in a traditional classroom environment we 
   <img src="/Project Images/Picture1.png" width="410" /> 
 </p>
 
+<br><br>
 ## Combined Results
 Both Models were run simultaneously to give combined results
 
