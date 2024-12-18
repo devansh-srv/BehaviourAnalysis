@@ -52,8 +52,8 @@ To assert a better feedback mechanism in a traditional classroom environment we 
 
 
 <p float="left">
-  <img src="/Project Images/Picture7.png" width="400" />
-  <img src="/Project Images/Picture1.png" width="400" /> 
+  <img src="/Project Images/Picture7.png" width="420" />
+  <img src="/Project Images/Picture1.png" width="420" /> 
 </p>
 
 ## Combined Results
@@ -61,8 +61,8 @@ Both Models were run simultaneously to give combined results
 
 #### Detecting teacher’s behavior:
 <p float="left">
-  <img src="/Project Images/Picture4.png" width="500" />
-  <img src="/Project Images/Picture5.png" width="500" /> 
+  <img src="/Project Images/Picture4.png" width="420" />
+  <img src="/Project Images/Picture5.png" width="420" /> 
 </p>
 
 #### Detecting students behaviour:
