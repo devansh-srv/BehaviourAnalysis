@@ -52,8 +52,8 @@ To assert a better feedback mechanism in a traditional classroom environment we 
 
 
 <p float="left">
-  <img src="/Project Images/Picture7.png" width="500" />
-  <img src="/Project Images/Picture1.png" width="500" /> 
+  <img src="/Project Images/Picture7.png" width="300" />
+  <img src="/Project Images/Picture1.png" width="300" /> 
 </p>
 
 ## Combined Results
